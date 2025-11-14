@@ -1,2 +1,2 @@
 # Resume
-Final-year CSE student (8.75 GPA) with AI/ML and data analysis experience. Interned at IIT Delhi and Cantilever Labs. Built ML models on Raman spectra and NLP-based AI assistant. Skilled in Python, Java, R, and tools like scikit-learn, XGBoost, Power BI, SHAP.
+4th-year CSE student with strong foundations in Python, Java and Cloud Computing. Experienced in AI/ML projects, including NLP, predictive modeling, and intelligent systems like Kai AI Desktop Assistant and  MLclassifiers. Passionate about applying software and AI skills to solve real-world problems.
